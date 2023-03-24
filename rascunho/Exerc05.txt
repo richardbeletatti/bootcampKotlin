@@ -1,0 +1,10 @@
+val list = listOf(1,5,3,4)
+ println(list.sum())
+13
+
+val cures = hashMapOf("white spots" to "Ich", "red sores" to "hole disease")
+ println(cures)
+{white spots=Ich, red sores=hole disease}
+
+println(cures.get("white spots"))
+Ich

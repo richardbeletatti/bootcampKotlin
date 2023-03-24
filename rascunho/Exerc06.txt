@@ -1,0 +1,3 @@
+val waterFilter = { dirty: Int -> dirty / 2 }
+
+
